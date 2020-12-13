@@ -2,11 +2,10 @@
 layout: default
 ---
 
-Welcome to **Cao Thanh Phong**, _blog_.
+Welcome to **Cao Thanh Phong** _blog_.
 
 Cao Thanh Phong 10A2.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Thông tin về CAO THANH PHONG
 
@@ -18,10 +17,6 @@ CAO THANH PHONG laocacho
 >
 > Láo cá quá à!
 
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
@@ -37,7 +32,7 @@ CAO THANH PHONG laocacho
 <dd>2005</dd>
 <dt>Birthplace</dt>
 <dd>Can Tho</dd>
-<dt>Nicknam</dt>
+<dt>Nickname</dt>
 <dd>Lao ca cho</dd>
 </dl>
 
